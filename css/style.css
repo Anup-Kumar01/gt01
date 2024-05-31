@@ -1,0 +1,23 @@
+/* blog section start */
+.blog{
+	padding: 40px 0px;
+}
+.container{
+
+}
+.bl_text{
+	height: 100vh;
+	background-color: #b3d3ea;
+	text-align: center;
+}
+.bl_text h1{
+	padding: 30px 0px 10px;
+	font-size: 55px;
+	font-color: #000000;
+}
+.bl_text p{
+	margin: 20px 40px;
+	font-size: 16px;
+	font-color: #626262;
+}
+/* blog section end */
